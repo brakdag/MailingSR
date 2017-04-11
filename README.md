@@ -1,0 +1,2 @@
+# MailingSR
+Mailing utility
