@@ -1,0 +1,38 @@
+<departamento> <fecha>
+
+Nombre Usuario
+Dirección
+Cel. Telefono
+email@email.com
+
+EMPRESA S.A
+Dirección, C.P. M5555AAA
+Departamento, Provincia, País
+Tel. + 555 5555-5555
+email@empresa.com
+
+A quien corresponda:
+
+Por medio de la presente, yo, <Nombre Usuario>, alumno del
+ de <Carrera> en la Universidad <Nombre Universidad>
+Facultad regional San Rafael expongo ante ustedes lo siguiente.
+
+Estando en el último año de la carrera de <carrera>
+necesito realizar Prácticas Profesionales Supervisadas que me ayuden a
+saber cuál es mi verdadero nivel académico y que además me permitan
+conocer la realidad sobre mi profesión.
+
+Por lo tanto les solicito un periodo de pasantía en esta empresa para
+de esa manera completar mi formación profesional. Estas prácticas
+serán evaluadas por profesionales de la universidad quienes podrán
+verificar mi desempeño en las labores que ustedes tengan a bien
+encargarme.
+
+Espero accedan a mi solicitud y que pronto pase a formar parte de esta
+gran empresa.
+
+Atentamente
+
+<Nombre Usuario>
+Alumno de <carrera>
+Universidad <Nombre Universidad>
